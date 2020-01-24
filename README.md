@@ -1,7 +1,7 @@
 # Portable-Computer-Shell
 A set of 3D printable enclosure designs for a DIY computer
 
-This is a generic enclosure which is meant for hobbyist use. The side compartments support BL-5C type batteries and pathways are made to the center compartment which can hold the main electronics. The keyboard supports Cherry MX style keyswitches and Costar stabilizers. The cover/lid can support a monitor or other type of display or can be left as-is. The lid can be attached to the main body with off-the-shelf friction hinges.
+This is a generic enclosure which is meant for hobbyist use. The side compartments support BL-5C type batteries and pathways are made to the center compartment which can hold the main electronics. The keyboard supports Cherry MX style keyswitches and Costar stabilizers. The cover/lid can support a monitor, or other type of display, or can be left as-is. The lid can be attached to the main body with off-the-shelf friction hinges.
 
 Files: 
 
@@ -23,3 +23,5 @@ Screws used to attach all three bottom layers must be tall enough to reach the t
 
 ![All plates in exploded view](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots4.png)
 
+One possible layout which can be used with this keyboard
+![Generic keyboard layout](https://github.com/cypnk/Portable-Computer-Shell/blob/master/genericlayout.png)
