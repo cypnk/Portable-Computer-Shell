@@ -5,10 +5,11 @@ This is a generic enclosure which is meant for hobbyist use. The side compartmen
 
 Files: 
 
-* top.stl - The top cover of the keyboard side of the shell
-* switch.stl - The keyboard switchplate
-* bottom.stl - The last layer of the keyboard side with screw holes
-* cover.stl - The lid of the shell, with an opening for a connector
+* [top.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/top.stl) - The top cover of the keyboard side of the shell
+* [switch.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/switch.stl) - The keyboard switchplate
+* [bottom.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/bottom.stl) - The last layer of the keyboard side with screw holes
+* [cover.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/cover.stl) - The lid of the shell, with an opening for a connector
+* [assembled.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/assembled.stl) - A preview of all the plates assembled
 
 The bottom layer has pathways for connecting to batteries in the side compartments as well as an entry into the keyboard well. There is an additional cutout to wire up to the cover and there are weep holes to prevent retention of any spilled liquids. The pathways to the main compartment can be sealed with silicone to prevent ingress of moisture from the keyboard well.
 
