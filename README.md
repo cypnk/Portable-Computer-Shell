@@ -18,6 +18,8 @@ Handle variants of the above:
 * [cover_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/cover_h.stl)
 * [assembled_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/assembled_h.stl) 
 
+To ensure proper scaling before printing, make sure the switch cutout size is exactly 14 x 14mm. The rest of the enclosure should proportionally match after that.
+
 The bottom layer has pathways for connecting to batteries in the side compartments as well as an entry into the keyboard well. There is an additional cutout to wire up to the cover and there are weep holes to prevent retention of any spilled liquids. The pathways to the main compartment can be sealed with silicone to prevent ingress of moisture from the keyboard well.
 
 Screws used to attach all three bottom layers must be tall enough to reach the top plate, but short enough to not portrude too much from the end.
