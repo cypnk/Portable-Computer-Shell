@@ -11,6 +11,13 @@ Files:
 * [cover.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/cover.stl) - The lid of the shell, with an opening for a connector
 * [assembled.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/assembled.stl) - A preview of all the plates assembled
 
+Handle variants of the above:
+* [top_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/top_h.stl) 
+* [switch_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/switch_h.stl) 
+* [bottom_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/bottom_h.stl) 
+* [cover_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/cover_h.stl)
+* [assembled_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/assembled_h.stl) 
+
 The bottom layer has pathways for connecting to batteries in the side compartments as well as an entry into the keyboard well. There is an additional cutout to wire up to the cover and there are weep holes to prevent retention of any spilled liquids. The pathways to the main compartment can be sealed with silicone to prevent ingress of moisture from the keyboard well.
 
 Screws used to attach all three bottom layers must be tall enough to reach the top plate, but short enough to not portrude too much from the end.
@@ -22,6 +29,15 @@ Screws used to attach all three bottom layers must be tall enough to reach the t
 ![Bottom view](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots3.png)
 
 ![All plates in exploded view](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots4.png)
+
+
+![Exterior view handle variant](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots5.png)
+
+![Directly under the top layer handle variant](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots6.png)
+
+![Bottom view handle variant](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots7.png)
+
+![All plates in exploded view handle variant](https://github.com/cypnk/Portable-Computer-Shell/blob/master/screenshots8.png)
 
 One possible layout which can be used with this keyboard
 ![Generic keyboard layout](https://github.com/cypnk/Portable-Computer-Shell/blob/master/genericlayout.png)
