@@ -18,7 +18,7 @@ Handle variants of the above:
 * [cover_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/cover_h.stl)
 * [assembled_h.stl](https://github.com/cypnk/Portable-Computer-Shell/blob/master/assembled_h.stl) 
 
-To ensure proper scaling before printing, make sure the switch cutout size is exactly 14 x 14mm. The rest of the enclosure should proportionally match after that.
+To ensure proper scaling before printing, make sure the switch cutout size is exactly 14 x 14mm. The rest of the enclosure should proportionally match after that. To ensure better stability and sturdy typing feel, the switch plate can be laser cut in ABS or similar material instead of 3D printing.
 
 The bottom layer has pathways for connecting to batteries in the side compartments as well as an entry into the keyboard well. There is an additional cutout to wire up to the cover and there are weep holes to prevent retention of any spilled liquids. The pathways to the main compartment can be sealed with silicone to prevent ingress of moisture from the keyboard well.
 
